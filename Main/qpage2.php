@@ -6,11 +6,11 @@
 
 Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information.
 
-<P>1. Question bla bla<BR>
-<input type="radio" name="#" value="#">op1<BR>
-<input type="radio" name="#" value="#">op2<BR>
-<input type="radio" name="#" value="#">op3<BR>
-<input type="radio" name="#" value="#">op4<BR>
+<P>2. The existence of scarcity in an economy imples that:<BR>
+<input type="radio" name="#" value="#">A. There are no free goods.<BR>
+<input type="radio" name="#" value="#">B. There are no public goods.<BR>
+<input type="radio" name="#" value="#">C. Individuals must make choices.<BR>
+<input type="radio" name="#" value="#">D. There has been a misallocation of resources.<BR>
 </p>
 <br>
 <input type="submit" value="Send Form">
@@ -26,7 +26,7 @@ Next question
 function checkAnswer() {
   var a= document.getElementByName("option");
   for (var i = 0, i < a.length; i++) {
-    if (a[i].value == "op1")
+    if (a[i].value == "C. Individuals must make choices")
     alert("You have selected the correct answer");
     //push(1).array
      
