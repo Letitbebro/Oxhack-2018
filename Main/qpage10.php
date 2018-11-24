@@ -9,8 +9,8 @@ Check the answer to each multiple-coice question, and click on the "Send Form" b
 <P>10. Which of the following is an aim of UK government macroeconomic policy?<BR>
 <input type="radio" name="#" value="#">A. A fall in the supply of money.<BR>
 <input type="radio" name="#" value="#">B. A stable labour force.<BR>
-<input type="radio" name="#" value="#">C. An increase in real GDP per head<BR>
-<input type="radio" name="#" value="#">D. Low interest rates<BR>
+<input type="radio" name="#" value="#">C. An increase in real GDP per head.<BR>
+<input type="radio" name="#" value="#">D. Low interest rates.<BR>
 </p>
 <br>
 <input type="submit" value="Send Form">
