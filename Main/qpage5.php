@@ -6,11 +6,11 @@
 
 Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information.
 
-<P>1. Question bla bla<BR>
-<input type="radio" name="#" value="#">op1<BR>
-<input type="radio" name="#" value="#">op2<BR>
-<input type="radio" name="#" value="#">op3<BR>
-<input type="radio" name="#" value="#">op4<BR>
+<P>5. Demerit goods(e.g. Alcohol, Cigarettes, etc) are a type of market failure because:<BR>
+<input type="radio" name="#" value="#">A. Their consumption results in positive externalities.<BR>
+<input type="radio" name="#" value="#">B. Their production results in negative production externalities.<BR>
+<input type="radio" name="#" value="#">C. They are over-consumed in a free market.<BR>
+<input type="radio" name="#" value="#">D. They are under-consumed when left to free market forces.<BR>
 </p>
 <br>
 <input type="submit" value="Send Form">
@@ -26,7 +26,7 @@ Next question
 function checkAnswer() {
   var a= document.getElementByName("option");
   for (var i = 0, i < a.length; i++) {
-    if (a[i].value == "op1")
+    if (a[i].value == "C. They are over-consumed in a free market.")
     alert("You have selected the correct answer");
     //push(1).array
      
