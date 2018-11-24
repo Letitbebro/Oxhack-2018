@@ -1,0 +1,78 @@
+/* Headings and paragraphs css */
+h1 {
+	background-color: slategrey;
+	font-size: 40px;
+	padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+	background-color: slategrey;
+	font-size: 32px;
+	padding: 22px;
+    text-align: center;
+    color: white;
+}
+
+h3 {
+	background-color: slategrey;
+	font-size: 26px;
+	padding: 22px;
+    text-align: center;
+    color: white;
+}
+
+h4 {
+	background-color: slategrey;
+	font-size: 20px;
+	padding: 22px;
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: darkslategrey;
+}
+
+/* Navigation css */
+#nav-hor {
+height: 84px;
+}
+
+.table {
+    display: table; /* Allows centre to work */
+    margin: 0 auto;
+}
+
+ul#horizontal-list {
+    min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+
+ul#horizontal-list li {
+    display: inline;
+}
+
+ul#horizontal-list li a {
+    color: darkslategrey;
+    line-height: 5;
+    letter-spacing: 1.5px;
+    background-color: rgb(173, 202, 198);
+}
+
+/* Footer CSS */
+body { width: 974px; margin: auto; }
+a , a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
