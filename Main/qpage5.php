@@ -22,6 +22,23 @@ Next question
 </button>
 </form>
 </body>
+<script type="text/javascript">
+function checkAnswer() {
+  var a= document.getElementByName("option");
+  for (var i = 0, i < a.length; i++) {
+    if (a[i].value == "op1")
+    alert("You have selected the correct answer");
+    //push(1).array
+     
+    else {
+      alert("You have selected the wrong answer");
+      break;
+       
+    }
+  }
+}
+   
+</script>
 
 <?php
    include_once('footer.php');
