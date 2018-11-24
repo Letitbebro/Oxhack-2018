@@ -7,10 +7,10 @@
 Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information.
 
 <P>1. Which one of the following is most likely to lead to greater labour productivity in an industry?<BR>
-<input type="radio" name="option" value="#">A. An increase in market demand<BR>
-<input type="radio" name="option" value="#">B. A fall in wages in the industry<BR>
-<input type="radio" name="option" value="#">C. An increase in the number of firms in the industry<BR>
-<input type="radio" name="option" value="#">D. An increase in capital investment in the industry<BR>
+<input type="radio" name="option" value="#">A. An increase in market demand.<BR>
+<input type="radio" name="option" value="#">B. A fall in wages in the industry.<BR>
+<input type="radio" name="option" value="#">C. An increase in the number of firms in the industry.<BR>
+<input type="radio" name="option" value="#">D. An increase in capital investment in the industry.<BR>
 </p>
 <br>
 <input type="submit" value="Send Form">
